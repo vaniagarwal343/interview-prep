@@ -88,6 +88,26 @@ graph = defaultdict(list)
 graph[0].append(1)       # no need to check if key exists
 ```
 
+## Sets
+
+```python
+seen = set()
+seen.add(x)            # add element
+seen.remove(x)         # remove (KeyError if missing)
+seen.discard(x)        # remove (no error if missing)
+x in seen              # check existence — O(1)
+len(seen)              # size
+set(nums)              # convert list to set (removes dupes)
+
+# useful one-liners
+has_dupes = len(nums) != len(set(nums))
+
+# set operations
+a | b                  # union
+a & b                  # intersection
+a - b                  # difference
+```
+
 ## Functions
 
 ```python
