@@ -8,3 +8,5 @@
 | 1 | Contains Duplicate | Arrays & Hashing | Easy | [solution](arrays-hashing/contains-duplicate.py) |
 | 1 | Valid Anagram | Arrays & Hashing | Easy | [solution](arrays-hashing/valid-anagram.py) |
 | 2 | Max Size Subarray Sum Equals k | Arrays & Hashing | Medium | [solution](arrays-hashing/max-size-subarray-sum-equals-k.py) |
+| 2 | Merge Intervals | Intervals | Medium | [solution](intervals/merge-intervals.py) |
+| 2 | Meeting Conflicts | Intervals | Easy | [solution](intervals/meeting-conflicts.py) |
