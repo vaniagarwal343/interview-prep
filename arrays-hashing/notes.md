@@ -12,6 +12,12 @@
 - `dict.get(key, 0)` replaces if/else for counting — use it every time
 - `Counter(s) == Counter(t)` is a one-liner for frequency comparison
 
+## #325 Max Size Subarray Sum Equals k
+
+- **Pattern:** Prefix Sum + Hashmap
+- Use a running prefix sum and store first occurrence in a hashmap; check if `prefix - k` exists to find subarrays summing to k
+- Time: O(n) | Space: O(n)
+
 ## Mistakes to Watch For
 
 - Don't store the current number before checking the complement, or you might match an element with itself
