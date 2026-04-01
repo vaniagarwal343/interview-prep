@@ -18,6 +18,12 @@
 - Use a running prefix sum and store first occurrence in a hashmap; check if `prefix - k` exists to find subarrays summing to k
 - Time: O(n) | Space: O(n)
 
+## #219 Contains Duplicate II
+
+- **Pattern:** Hashmap with index tracking
+- Like Contains Duplicate I (just existence check with a set), but adds a distance constraint — store value → most recent index, check if previous occurrence was within k
+- Time: O(n) | Space: O(n)
+
 ## Mistakes to Watch For
 
 - Don't store the current number before checking the complement, or you might match an element with itself

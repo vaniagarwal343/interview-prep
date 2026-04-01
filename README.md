@@ -15,3 +15,4 @@
 | 3 | Minimum Time Difference | Sorting | Medium | [solution](sorting/minimum-time-difference.py) |
 | 3 | Single Number | Bit Manipulation | Easy | [solution](bit-manipulation/single-number.py) |
 | 3 | Find Beautiful Indices | Strings | Medium | [solution](strings/find-beautiful-indices.py) |
+| 3 | Contains Duplicate II | Arrays & Hashing | Easy | [solution](arrays-hashing/contains-duplicate-ii.py) |
