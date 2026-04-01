@@ -14,3 +14,4 @@
 | 2 | Merge K Sorted Lists | Heaps | Hard | [solution](heaps/merge-k-sorted-lists.py) |
 | 3 | Minimum Time Difference | Sorting | Medium | [solution](sorting/minimum-time-difference.py) |
 | 3 | Single Number | Bit Manipulation | Easy | [solution](bit-manipulation/single-number.py) |
+| 3 | Find Beautiful Indices | Strings | Medium | [solution](strings/find-beautiful-indices.py) |
