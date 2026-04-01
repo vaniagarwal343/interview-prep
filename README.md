@@ -11,3 +11,4 @@
 | 2 | Merge Intervals | Intervals | Medium | [solution](intervals/merge-intervals.py) |
 | 2 | Meeting Conflicts | Intervals | Easy | [solution](intervals/meeting-conflicts.py) |
 | 2 | Accounts Merge | Graphs | Medium | [solution](graphs/accounts-merge.py) |
+| 2 | Merge K Sorted Lists | Heaps | Hard | [solution](heaps/merge-k-sorted-lists.py) |
