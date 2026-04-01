@@ -10,3 +10,4 @@
 | 2 | Max Size Subarray Sum Equals k | Arrays & Hashing | Medium | [solution](arrays-hashing/max-size-subarray-sum-equals-k.py) |
 | 2 | Merge Intervals | Intervals | Medium | [solution](intervals/merge-intervals.py) |
 | 2 | Meeting Conflicts | Intervals | Easy | [solution](intervals/meeting-conflicts.py) |
+| 2 | Accounts Merge | Graphs | Medium | [solution](graphs/accounts-merge.py) |
