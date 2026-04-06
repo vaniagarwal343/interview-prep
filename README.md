@@ -19,3 +19,5 @@
 | 4 | Flood Fill | Graphs | Easy | [solution](graphs/flood-fill.py) |
 | 4 | Number of Islands | Graphs | Medium | [solution](graphs/number-of-islands.py) |
 | 4 | Course Schedule | Graphs | Medium | [solution](graphs/course-schedule.py) |
+| 4 | Time Based Key-Value Store | Binary Search | Medium | [solution](binary-search/time-based-key-value-store.py) |
+| 4 | Longest Substring Without Repeating Characters | Sliding Window | Medium | [solution](sliding-window/longest-substring-without-repeating-characters.py) |
