@@ -16,3 +16,6 @@
 | 3 | Single Number | Bit Manipulation | Easy | [solution](bit-manipulation/single-number.py) |
 | 3 | Find Beautiful Indices | Strings | Medium | [solution](strings/find-beautiful-indices.py) |
 | 3 | Contains Duplicate II | Arrays & Hashing | Easy | [solution](arrays-hashing/contains-duplicate-ii.py) |
+| 4 | Flood Fill | Graphs | Easy | [solution](graphs/flood-fill.py) |
+| 4 | Number of Islands | Graphs | Medium | [solution](graphs/number-of-islands.py) |
+| 4 | Course Schedule | Graphs | Medium | [solution](graphs/course-schedule.py) |
